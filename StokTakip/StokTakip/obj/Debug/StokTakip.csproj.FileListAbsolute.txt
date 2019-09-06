@@ -1,0 +1,14 @@
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.csprojResolveAssemblyReference.cache
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.Cache
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Urunler.resources
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.AnaForm.resources
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.Kategoriler.resources
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.SatisYap.resources
+C:\Users\yakup\Documents\Visual Studio 2017\Projects\StokTakip\StokTakip\obj\Debug\StokTakip.SatisTakip.resources
